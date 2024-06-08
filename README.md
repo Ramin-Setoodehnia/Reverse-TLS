@@ -125,7 +125,7 @@ go get github.com/fatih/color
 
 
  <p align="right">
-  <img src="https://github.com/Azumi67/Reverse_tls/assets/119934376/242cb93c-708e-4d2f-8ae7-d2469665e75c" alt="Image" />
+  <img src="https://github.com/Ramin-Setoodehnia/Reverse-TLS/assets/119934376/242cb93c-708e-4d2f-8ae7-d2469665e75c" alt="Image" />
 </p>
 
 
@@ -148,7 +148,7 @@ go get github.com/fatih/color
 
 
  <p align="right">
-  <img src="https://github.com/Azumi67/Reverse_tls/assets/119934376/5173ace4-40a1-4a57-a88b-c9d179680667" alt="Image" />
+  <img src="https://github.com/Ramin-Setoodehnia/Reverse-TLS/assets/119934376/5173ace4-40a1-4a57-a88b-c9d179680667" alt="Image" />
 </p>
 
 - سرور اول خارج را کانفیگ میکنم.
