@@ -70,7 +70,7 @@
   
 ------------------------------------ 
 
-- شما میتوانید از طریق اسکریپت [Here](https://github.com/Azumi67/Reverse_tls/tree/main#%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA-%D9%85%D9%86) ، این پیش نیاز را نصب کنید یا به صورت دستی نصب نمایید.
+- شما میتوانید از طریق اسکریپت [Here](https://github.com/Ramin-Setoodehnia/Reverse-TLS/tree/main#%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA-%D9%85%D9%86) ، این پیش نیاز را نصب کنید یا به صورت دستی نصب نمایید.
 - حتما در صورت مشکل دانلود، dns های خود را تغییر دهید.
 - پس از نصب پیش نیاز ، اجرای اسکریپت go برای بار اول، ممکن است تا 10 ثانیه طول بکشد اما بعد از آن سریع اجرا میشود.
 ```
@@ -169,7 +169,7 @@ go get github.com/fatih/color
 
 
  <p align="right">
-  <img src="https://github.com/Azumi67/Reverse_tls/assets/119934376/5305f0d1-d346-4789-8e84-04450cfac0ca" alt="Image" />
+  <img src="https://github.com/Ramin-Setoodehnia/Reverse-TLS/assets/119934376/5305f0d1-d346-4789-8e84-04450cfac0ca" alt="Image" />
 </p>
 
 - سرور دوم خارج را کانفیگ میکنم.
@@ -199,7 +199,7 @@ go get github.com/fatih/color
 
 
  <p align="right">
-  <img src="https://github.com/Azumi67/Reverse_tls/assets/119934376/505f3ca5-e556-45a3-936d-9c291d0700cf" alt="Image" />
+  <img src="https://github.com/Ramin-Setoodehnia/Reverse-TLS/assets/119934376/505f3ca5-e556-45a3-936d-9c291d0700cf" alt="Image" />
 </p>
 
 
@@ -222,7 +222,7 @@ go get github.com/fatih/color
 
 
  <p align="right">
-  <img src="https://github.com/Azumi67/Reverse_tls/assets/119934376/16ff88a5-4d9b-4f52-a917-307fc4db6842" alt="Image" />
+  <img src="https://github.com/Ramin-Setoodehnia/Reverse-TLS/assets/119934376/16ff88a5-4d9b-4f52-a917-307fc4db6842" alt="Image" />
 </p>
 
 - سرور اول خارج را کانفیگ میکنم.
@@ -243,7 +243,7 @@ go get github.com/fatih/color
 
 
  <p align="right">
-  <img src="https://github.com/Azumi67/Reverse_tls/assets/119934376/381d4353-e541-4f77-aaaf-88600438d21a" alt="Image" />
+  <img src="https://github.com/Ramin-Setoodehnia/Reverse-TLS/assets/119934376/381d4353-e541-4f77-aaaf-88600438d21a" alt="Image" />
 </p>
 
 - سرور دوم خارج را کانفیگ میکنم.
@@ -273,7 +273,7 @@ go get github.com/fatih/color
 
 
  <p align="right">
-  <img src="https://github.com/Azumi67/Reverse_tls/assets/119934376/b24a9954-64a8-4820-960d-f98ed2695130" alt="Image" />
+  <img src="https://github.com/Ramin-Setoodehnia/Reverse-TLS/assets/119934376/b24a9954-64a8-4820-960d-f98ed2695130" alt="Image" />
 </p>
 
 
@@ -293,7 +293,7 @@ go get github.com/fatih/color
 
 
  <p align="right">
-  <img src="https://github.com/Azumi67/Reverse_tls/assets/119934376/57e3935d-9a05-4713-a563-fa35e2102fd1" alt="Image" />
+  <img src="https://github.com/Ramin-Setoodehnia/Reverse-TLS/assets/119934376/57e3935d-9a05-4713-a563-fa35e2102fd1" alt="Image" />
 </p>
 
 - سرور خارج را کانفیگ میکنیم.
@@ -322,7 +322,7 @@ go get github.com/fatih/color
 
 
  <p align="right">
-  <img src="https://github.com/Azumi67/Reverse_tls/assets/119934376/df6c8c3f-260c-49c8-a713-446f1dd2d4fb" alt="Image" />
+  <img src="https://github.com/Ramin-Setoodehnia/Reverse-TLS/assets/119934376/df6c8c3f-260c-49c8-a713-446f1dd2d4fb" alt="Image" />
 </p>
 
 
@@ -342,7 +342,7 @@ go get github.com/fatih/color
 
 
  <p align="right">
-  <img src="https://github.com/Azumi67/Reverse_tls/assets/119934376/ca407e5a-cbb1-46d4-8afc-2a07c3826b6b" alt="Image" />
+  <img src="https://github.com/Ramin-Setoodehnia/Reverse-TLS/assets/119934376/ca407e5a-cbb1-46d4-8afc-2a07c3826b6b" alt="Image" />
 </p>
 
 - سرور خارج را کانفیگ میکنیم.
@@ -370,7 +370,7 @@ go get github.com/fatih/color
 **مسیر : WSS TCP > IRAN**
 
  <p align="right">
-  <img src="https://github.com/Azumi67/Reverse_tls/assets/119934376/8ac6c5df-27fc-458c-b9e8-c83e5a3d84ad" alt="Image" />
+  <img src="https://github.com/Ramin-Setoodehnia/Reverse-TLS/assets/119934376/8ac6c5df-27fc-458c-b9e8-c83e5a3d84ad" alt="Image" />
 </p>
 
 - نخست سرور ایران را کانفیگ میکنیم
@@ -380,7 +380,7 @@ go get github.com/fatih/color
 - من پشت ساب دامین از ایپی 4 استفاده کردم. شما میتوانید با ایپی 6 NATIVE هم تست نمایید.
 
  <p align="right">
-  <img src="https://github.com/Azumi67/Reverse_tls/assets/119934376/0b5f950a-151c-425f-9692-eb57316481a9" alt="Image" />
+  <img src="https://github.com/Ramin-Setoodehnia/Reverse-TLS/assets/119934376/0b5f950a-151c-425f-9692-eb57316481a9" alt="Image" />
 </p>
 
 - من دو سرور خارج داشتم پس عدد 2 را وارد میکنم.
@@ -399,7 +399,7 @@ go get github.com/fatih/color
 
 
  <p align="right">
-  <img src="https://github.com/Azumi67/Reverse_tls/assets/119934376/b02bbfa5-f89d-4ecf-b7ac-5e63e8e7aa68" alt="Image" />
+  <img src="https://github.com/Ramin-Setoodehnia/Reverse-TLS/assets/119934376/b02bbfa5-f89d-4ecf-b7ac-5e63e8e7aa68" alt="Image" />
 </p>
 
 - سرور اول خارج را کانفیگ میکنم.
@@ -417,7 +417,7 @@ go get github.com/fatih/color
 
 
  <p align="right">
-  <img src="https://github.com/Azumi67/Reverse_tls/assets/119934376/a4049114-bb2c-445e-a249-21a649efe17a" alt="Image" />
+  <img src="https://github.com/Ramin-Setoodehnia/Reverse-TLS/assets/119934376/a4049114-bb2c-445e-a249-21a649efe17a" alt="Image" />
 </p>
 
 - سرور دوم خارج را کانفیگ میکنم.
@@ -447,7 +447,7 @@ go get github.com/fatih/color
 
 
  <p align="right">
-  <img src="https://github.com/Azumi67/Reverse_tls/assets/119934376/e2edc4b4-ba7b-4576-864a-b28fa0268686" alt="Image" />
+  <img src="https://github.com/Ramin-Setoodehnia/Reverse-TLS/assets/119934376/e2edc4b4-ba7b-4576-864a-b28fa0268686" alt="Image" />
 </p>
 
 
@@ -468,7 +468,7 @@ go get github.com/fatih/color
 
 
  <p align="right">
-  <img src="https://github.com/Azumi67/Reverse_tls/assets/119934376/8c78c360-e6b6-47d1-a116-abe6d287c342" alt="Image" />
+  <img src="https://github.com/Ramin-Setoodehnia/Reverse-TLS/assets/119934376/8c78c360-e6b6-47d1-a116-abe6d287c342" alt="Image" />
 </p>
 
 - سرور خارج را کانفیگ میکنم.
@@ -493,7 +493,7 @@ go get github.com/fatih/color
   <summary align="right">Click to reveal image</summary>
   
   <p align="right">
-    <img src="https://github.com/Azumi67/Reverse_tls/assets/119934376/e2fb4086-c2f2-41dd-8151-90f0e5585060" alt="menu screen" />
+    <img src="https://github.com/Ramin-Setoodehnia/Reverse-TLS/assets/119934376/e2fb4086-c2f2-41dd-8151-90f0e5585060" alt="menu screen" />
   </p>
 </details>
 
@@ -528,7 +528,7 @@ wget "https://raw.githubusercontent.com/hawshemi/Linux-Optimizer/main/linux-opti
 ----------------
 - دستور زیر فایل های پیش نیاز را نصب میکند و سپس اقدام به اجرای اسکریپت میکند. اگر مشکلی داشتید به صورت دستی هم میتوانید نصب کنید
 ```
-sudo apt install curl -y && bash <(curl -s https://raw.githubusercontent.com/Azumi67/Reverse_tls/main/go.sh)
+sudo apt install curl -y && bash <(curl -s https://raw.githubusercontent.com/Ramin-Setoodehnia/Reverse-TLS/main/go.sh)
 ```
 
 - اگر به صورت دستی نصب کردید و پیش نیاز ها را هم دارید و میخواهید به صورت دستی هم اسکریپت را اجرا کنید میتوانید با دستور زیر اینکار را انجام دهید
